@@ -1,6 +1,0 @@
-LongString
-NotLong
-Hi
-Jump
-Eruption
-Helloworld
